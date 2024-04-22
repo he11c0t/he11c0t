@@ -6,9 +6,6 @@
 </h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
-
-
-
 <h3 align="left">Connect with me:</h3>
 - 📫 How to reach me **he11c0t@yandex.ru**
 <p align="left">
