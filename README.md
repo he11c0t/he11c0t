@@ -10,8 +10,8 @@
 
 # 💻Tech Stack
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=he11c0t&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+# 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=he11c0t&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=4)
 
 
 
