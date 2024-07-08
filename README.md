@@ -14,7 +14,8 @@
 # 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=he11c0t&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=4)
 
-
+## 🌐repository
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HE11CAT) 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
